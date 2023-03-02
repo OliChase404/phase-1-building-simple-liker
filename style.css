@@ -1,6 +1,6 @@
 body {
   margin: 5% 10%;
-  background-color: rgb(29,161,242);
+  background-color: rgb(0, 132, 214);
 }
 
 .like-glyph {
@@ -28,7 +28,7 @@ article.media-post > p {
 
 article.media-post > header {
   padding: 1em 2em;
-  background-color: rgb(225,232,237);
+  background-color: rgb(0, 110, 189);
 }
 
 article.media-post > footer {
@@ -41,7 +41,7 @@ article.media-post > footer ul {
 
 #modal {
   border-radius: 10px;
-  background-color: maroon;
+  background-color: rgb(255, 0, 0);
   color: white;
 
   margin: 1em;
